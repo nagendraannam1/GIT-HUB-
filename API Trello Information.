@@ -1,0 +1,17 @@
+
+Trello common  A/C nagendra.annam1@gmail.com  "  https://trello.com/b/1KfdFAmu/learn-api-postman  " 
+
+Trello : IT is a web application using to demo API Automation.  
+firstly we will create one trello A/C 
+Login and create board  
+Vsiting the offical documentation of API belpow URL.  
+
+https://developer.atlassian.com/cloud/trello/
+
+Click on guide==> Rest API =>API Introduction ==> to visit this URL https://trello.com/api-key to generate the Tokens .  
+To visiting the API first Call copy the URL .  
+
+Login to postman. Enter the URL and update the Query parameters also 
+
+Based on Above codes and tokens using to manipulate the api docunentation . 
+
