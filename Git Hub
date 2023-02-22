@@ -10,3 +10,5 @@ GIT BRANCH COMMANDS:
  ** git merge <branchname>                      // Merges the specified branch into current branch.  
  ** git branch --merge                          // List all branches that have been merged  in current branch.  
  ** git branch --no-merge                       // List all branches that have not been merged in current branch 
+ ** git branch -r                               // To view all the remote branches.  
+ 
